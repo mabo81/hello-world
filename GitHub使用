@@ -1,0 +1,77 @@
+
+GitHub Hello world project
+https://guides.github.com/activities/hello-world/
+
+The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new.
+
+Github, 社交编程和代码托管网站
+Github	项目，工具，代码，传送门,文档地址
+
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Github essentials like Repository, Branch, Commit, pull request workflow
+Create a repository, 创建仓库
+Create a branch, 创建分支
+Make a commit, 提交项目
+Open a pull request
+Merge pull request
+
+Use the command line 使用命令行工具
+Install git		安装Git工具
+Git is the version control software github is built on.
+
+
+Create a repository
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project.
+Use the repository to store ideas, resources, learning notes and work experience and so on.
+创建仓库
+1.	在GitHub页面，点击创建按钮选择 New Repository，进入创建仓库页面。
+2.	设置仓库名
+3.	添加描述信息
+4.	选择Initialize the repository with Readme, 通过Readme文件初始化仓库。
+5.	点击创建仓库按钮，Create repository，完成仓库的创建。
+
+Create a branch
+Branching is the way to work on different versions of a repository at one time.
+By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
+1.	Go to the repository, 进入仓库
+2.	Click the drop down at the top of the file list that says branch: master.
+点击分支按钮，switch branches/tags, 切换分支或者标签。
+3.	Type a branch name into the new branch text box. 
+在分支文本框里添加分支名称
+
+4.	Select the blue Create branch box or hit “Enter” on your keyboard.
+创建分支完成。
+
+Make and commit changes
+On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+1.	Click the file, 选择文件
+2.	Click the edition icon in the upper right corner of the file view to edit.
+在文件页面点击编辑按钮进行编辑。
+3.	In the editor, write a bit by yourself.
+在文件编辑器里，添加内容。
+4.	Write a commit message that describes your changes.
+对文件修改添加注解
+5.	Click Commit changes button.
+点击提交按钮，完成提交。
+
+
+Open a pull request
+相对主分支(master branch)，对其他分支进行修改时，you can open a pull request.
+Pull Requests are the heart of collaboration on GitHub.
+Pull requests show diffs, or differences, of the content from both branches. 
+The changes, additions, and subtractions are shown in green and red.
+
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+Open a Pull Request for changes.
+1.	Click the pull request tag, then from the pull request page, click the green New Pull request button.
+点击Pull Request标签，点击创建Pull Request按钮。
+2.	Comparing changes
+Select the specified branch to compare the original master branch.
+Choose the two branches to see the changes to start a new pull request.
+
+
+
+
+
+
+
